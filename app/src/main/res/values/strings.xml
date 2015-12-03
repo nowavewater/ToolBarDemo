@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ToolBarDemo</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="link_fragment1_text">Fragment1</string>
+    <string name="link_fragment2_text">Fragment2</string>
+    <string name="link_fragment3_text">Fragment3</string>
+
+    <string name="send_text">Send</string>
+    <string name="add_text">Add</string>
+    <string name="done_text">Done</string>
+
+</resources>

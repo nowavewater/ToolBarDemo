@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <include
+        android:id="@+id/toolbar_fragment_main"
+        layout="@layout/app_bar" />
+    <TextView
+        android:id="@+id/link_fragment1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#0000FF"
+        android:text="@string/link_fragment1_text"
+        android:textSize="32sp"/>
+    <TextView
+        android:id="@+id/link_fragment2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#0000FF"
+        android:text="@string/link_fragment2_text"
+        android:textSize="32sp"/>
+    <TextView
+        android:id="@+id/link_fragment3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="#0000FF"
+        android:text="@string/link_fragment3_text"
+        android:textSize="32sp"/>
+</LinearLayout>
